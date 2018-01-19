@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: X-Space
+title: BlackAnt
 subtitle:
 description: This website is designed by x-space, and use to offer a professional robot solutions.
 author: ZhuChaozheng SunTong ChuZhefan
@@ -98,3 +98,5 @@ sitemap:
 baidusitemap:
   path: baidusitemap.xml
 
+plugins:
+  -hexo-math
